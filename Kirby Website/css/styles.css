@@ -1,0 +1,41 @@
+nav{
+	padding: 2%;
+	text-align: center;
+	font-size: 30px;
+}
+nav a{
+	margin: 10;
+	text-decoration: none;
+	color: #FF10F0;
+	outline-offset: 1%;
+}
+p{
+	font-size: 20px;
+}
+footer{
+	text-align: center;
+}
+.Fnav{
+	
+
+	margin: 8;
+	text-decoration: none;
+}
+img{
+	width: 500px;
+}
+*{
+	background-color: #FFB6C1;
+}
+h1{
+	color: #FF10F0	
+}
+h2{
+	color: #FF10F0;
+}
+table, th, td{
+  border: 1px solid;
+}
+a:hover{
+	color: yellow;
+}
