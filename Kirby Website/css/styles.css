@@ -28,14 +28,19 @@ img{
 	background-color: #FFB6C1;
 }
 h1{
-	color: #FF10F0	
+	color: #FF10F0;	
+	font-family: 'Press Start 2P', cursive;
 }
 h2{
 	color: #FF10F0;
+	font-family: 'Press Start 2P', cursive;
 }
 table, th, td{
   border: 1px solid;
 }
 a:hover{
 	color: yellow;
+}
+body{
+	font-family: 'Rubik', sans-serif;
 }
